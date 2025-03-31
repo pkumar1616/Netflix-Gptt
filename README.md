@@ -6,6 +6,9 @@
  - Login / SignUp Page
     - SignIn /Signup Form
     - Redirect to Browse Page
+    - Header
+    - LoginForm
+    - SignUpForm
  - Browse
    - Header
    - Main Movie
